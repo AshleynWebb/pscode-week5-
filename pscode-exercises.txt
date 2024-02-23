@@ -55,3 +55,6 @@ Find the smallest and largest
         largest = num2
 repeat steps for num3. num4, num5.
 
+PRINT "The average of the five numbers is:", average
+    PRINT "The smallest number is:", smallest
+    PRINT "The largest number is:", largest
